@@ -1,0 +1,18 @@
+name = "Digitand"
+license = "TheUnlicense"
+licenselink = "https://github.com/carpuplay/digitand/blob/main/LICENSE"
+description = "Digitand Main web portal"
+homepage = "https://github.com/carpuplay/digitand"
+tags = ["minimal", "gray", "dark"]
+features = ["responsive"]
+min_version = "0.41.0"
+
+[author]
+  name = "carpuplay"
+  homepage = "https://github.com/carpuplay/digitand"
+  repo = "https://github.com/carpuplay/digitand"
+
+[original]
+  name = "GrayScale"
+  homepage = "https://startbootstrap.com/theme/grayscale"
+  repo = "https://github.com/startbootstrap/startbootstrap-grayscale"

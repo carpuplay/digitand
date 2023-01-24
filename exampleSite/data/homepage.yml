@@ -1,0 +1,33 @@
+# Main Title
+main:
+  header:
+    title : "DigitAnd" # Title Text
+    description : "Renovar, Mejorar, Actualizar" # Title Desc
+    button:
+      text: "Quiero saber más" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "Sobre Nosotros"
+  desc: "Fotografía, Videos, Páginas Web, la creación digital es nuestro punto fuerte. Somos jóvenes estudiantes especializados en cada uno de los servicios que ofrecemos. "
+  button:
+    enable: true
+    text: "Nuestro Equipo"
+    url: "#"
+  image: "assets/img/ipad.png"
+
+# Projects
+projects:
+  card1:
+    title: "Fotografía "
+    text: "Capturar la imagen perfecta, editarla y publicarla. Nuestro equipo de fotografos y editores pueden convertir cualquier momento en la foto perfecta."
+    img: "assets/img/bg-masthead.jpg"
+  card2:
+    title: "Videos"
+    text: "Videos cortos, largos, promocionales... Podemos atender a cualquier solicitud, nuestros guionistas, camarógrafos y editores crearán el video que mejor se adapte a su demanda."
+    img: "assets/img/demo-image-01.jpg"
+  card3:
+    title: "Portales Web"
+    text: "La manera más fácil de conocer una empresa y sus actividades es a través de una web, la calidad de la web y de su contenido refleja directamente su negocio. Nuestro equipo de programadores creará una web única, especial y espectacular."
+    img: "assets/img/demo-image-02.jpg"
